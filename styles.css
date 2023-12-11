@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+}
+
+.header ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
